@@ -1,0 +1,11 @@
+{
+  "name": "adhkar-ts-sabah-masa-scheduler",
+  "version": "1.0.0",
+  "description": "Astronomical Fajr-to-Sunrise & Asr-to-Maghrib Adhkar Window Scheduler (مجدول أذكار الصباح والمساء حسب شروق وغروب الشمس)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
